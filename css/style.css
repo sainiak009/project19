@@ -9,6 +9,11 @@
   margin: auto;
 }
 
+.modal-body{
+  text-align: center;
+  font-weight: bold;
+}
+
 /* ==========================================================================
    Base Styles and Bootstrap Modifications
    ========================================================================== */
